@@ -44,7 +44,7 @@ Generate a video that goes through all the life events.
 
 **Janine Petrov (1942 - 1968)**
 
-<video width="320" controls>
+<video width="320" height="320" controls>
   <source src="https://edenartlab-prod-data.s3.us-east-1.amazonaws.com/62f3adb2f26dbf9396f2bde275f0f544196b23a6ea7061c8bb12ec36ae0ba1ed.mp4" type="video/mp4">
 </video>
 
@@ -92,7 +92,7 @@ A 26-year-old Janine, weary and resigned, is captured in a stark, dimly lit pris
 
 **Samuel Njoroge (1994 - Present)**
 
-<video width="320" controls>
+<video width="320" height="320" controls>
   <source src="https://edenartlab-prod-data.s3.us-east-1.amazonaws.com/4da6b90ef7f59e54cd7f3f62ea352e23525fb2640e77751144e6923818a3ca3c.mp4" type="video/mp4">
 </video>
 
