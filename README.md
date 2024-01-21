@@ -1,4 +1,4 @@
-# alternate-you
+# Alternate You
 
 Alternate You is an experiment that asks the question:
 
@@ -25,7 +25,6 @@ The experiment works in two parts:
 ### Using face concept
 Generate visualizations using a LoRa trained on images of you.
 
-
 Alternate versions of Samuel (born 1994 in NYC, upper middle class), using a [LoRa trained on images of me](https://app.eden.art/creators/samzmann?conceptId=65ad726bc7e9dd341fa70391):
 
 <figure>
@@ -42,8 +41,13 @@ Alternate versions of Samuel (born 1994 in NYC, upper middle class), using a [Lo
 
 Generate a video that goes through all the life events.
 
-**Janine Petrov (1942 - 1968)**
+After ChatGPT output an Alternate You, prompt it again with:
 
+```
+Transform the life events above into prompts that I can use to generate an image for each life event. Omit the date and emoji part, and double down on graphic details that will help produce more meaningful, telling images.
+```
+
+**Janine Petrov (1942 - 1968)**
 
 [Eden link](https://app.eden.art/creators/samzmann?creationId=65ad897ac7e9dd341fbfbe79)
 
